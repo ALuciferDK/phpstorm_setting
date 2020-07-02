@@ -1,0 +1,25 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.648" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.7532808" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="KEYMAP" value="Refor" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="OpenOrAttachDialog.OpenMode" value="replace" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="SearchEveryWhereHistory" value="￥&#10;f" />
+    <property name="SettingsSearchHistory" value="bug" />
+    <property name="SplitFileEditor.Proportion" value="0.49661836" />
+    <property name="evlsprt3.182" value="14" />
+    <property name="file.chooser.recent.files" value="D:/phpstudy/PHPTutorial/WWW/ehaiba&#10;D:/phpstudy/PHPTutorial/WWW/laravel-admin&#10;D:/phpstudy/PHPTutorial/WWW/shop_sever/application/backend/controller/Shops.php&#10;D:/phpstudy/PHPTutorial/WWW/shop_sever/application/backend/controller/Shop.php&#10;D:/phpstudy/PHPTutorial/WWW/shop_sever/application/backend/controller/Businessman.php&#10;D:/phpstudy/PHPTutorial/WWW/shop_sever/application/common/library/token/driver/Redis.php&#10;D:/phpstudy/PHPTutorial/WWW/shop_sever/application/common/library/token/Driver.php&#10;D:/phpstudy/PHPTutorial/WWW/shop_sever/application/common/library/Auth.php&#10;D:/phpstudy/PHPTutorial/WWW/shop_sever/application/backend/model/ShopsM.php&#10;D:/phpstudy/PHPTutorial/WWW/shop_sever/application/backend/model/Business.php&#10;D:/phpstudy/PHPTutorial/WWW/shop_sever/application/backend/model/ShopM.php&#10;D:/phpstudy/PHPTutorial/WWW&#10;D:/phpstudy/PHPTutorial/WWW/fastadmin/fastadmin&#10;D:/phpstudy/PHPTutorial/WWW/shop_sever&#10;D:/phpstudy/PHPTutorial/WWW/sjy_2&#10;D:/phpstudy/PHPTutorial/WWW/blog" />
+    <property name="file.gist.reindex.count" value="91720" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="lastTip" value="1" />
+    <property name="ts.lib.d.ts.version" value="3.0.1" />
+  </component>
+</application>

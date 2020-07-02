@@ -1,0 +1,5 @@
+<application>
+  <component name="PasswordSafe">
+    <option name="isRememberPasswordByDefault" value="false" />
+  </component>
+</application>

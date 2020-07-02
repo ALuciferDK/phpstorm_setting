@@ -1,0 +1,35 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="466" y="87" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="685" y="336" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="363" y="186" />
+    <location key="SettingsEditor.0.0.1366.768" x="169" y="7" />
+    <location key="WebDeployment.AddServerDialog.v.1.0.0.1366.768" x="478" y="252" />
+    <location key="NewPhpFileDialog.0.0.1366.768" x="499" y="298" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="137" y="25" />
+    <location key="#Options.0.0.1366.768" x="337" y="101" />
+    <location key="publish.login.0.0.1366.768" x="550" y="272" />
+    <location key="ftp.server.browser.0.0.1366.768" x="586" y="95" />
+    <location key="#Deployment.0.0.1366.768" x="275" y="29" />
+    <location key="MergeDialog.0.0.1366.768" x="117" y="30" />
+    <location key="webDeployment.PermissionsDialog.Tabs.0.0.1366.768" x="487" y="139" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1366.768" x="449" y="266" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" x="435" y="176" />
+    <location key="RollbackChangesDialog.0.0.1366.768" x="494" y="71" />
+    <location key="find.popup.0.0.1366.768" x="445" y="0" />
+    <location key="CommitChangelistDialog2.0.0.1366.768" x="382" y="0" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1366.768" x="413" y="117" />
+    <location key="com.jetbrains.plugins.webDeployment.ui.AdvancedOptionsDialog.0.0.1366.768" x="505" y="207" />
+    <location key="NewPhpClassDialog.0.0.1366.768" x="357" y="330" />
+    <location key="Vcs.Push.Dialog.0.0.1366.768" x="396" y="160" />
+    <location key="bookmarks.0.0.1366.768" x="500" y="273" />
+    <location key="DiffContextDialog.0.0.1366.768" x="231" y="54" />
+    <location key="git4idea.merge.GitPullDialog.0.0.1366.768" x="246" y="169" />
+    <location key="ProcessPopupWindow.0.0.1366.768" x="964" y="624" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1366.768" x="437" y="209" />
+    <size key="ftp.server.browser.0.0.1366.768" width="256" height="548" />
+    <size key="find.popup.0.0.1366.768" width="793" height="738" />
+    <size key="bookmarks.0.0.1366.768" width="864" height="350" />
+    <size key="ProcessPopupWindow.0.0.1366.768" width="400" height="119" />
+  </component>
+</application>
